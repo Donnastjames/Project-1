@@ -42,5 +42,5 @@ Here is a list of the APIs:
 * Sandy Marr
 
 ## Deployed Link
-https://sandra-marr.github.io/Project-1/
+https://donnastjames.github.io/Project-1/
 
